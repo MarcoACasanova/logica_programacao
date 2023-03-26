@@ -1,0 +1,14 @@
+Algoritmo "treinamento1"
+//processamento de dados
+Var
+
+x,y : inteiro
+
+Inicio
+
+      x <- 5
+      y <- 2*x
+      escreval (x)
+      escreval (y)
+
+Fimalgoritmo
